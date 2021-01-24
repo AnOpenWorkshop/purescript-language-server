@@ -34,7 +34,7 @@ in.
 
 ## Usage
 
-This LSP implmementation is consumed by vscode and Atom plugins as a node module, and bundled along with those plugins.
+This LSP implementation is consumed by vscode and Atom plugins as a node module, and bundled along with those plugins.
 
 To use with another LSP client, you will want to install this either globally or locally for `npm`, e.g.
 
